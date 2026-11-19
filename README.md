@@ -6,7 +6,7 @@
 
 ดาวน์โหลดตัวติดตั้งเวอร์ชัน **2.9.2** ได้จาก [หน้า Releases](https://github.com/kungzazakub-png/tiers-driver-manage-download/releases/latest)
 
-เลือกไฟล์ `TierS-Driver-Manage-Setup.exe` แล้วเปิดไฟล์เพื่อติดตั้ง โปรแกรมอาจขอสิทธิ์ผู้ดูแลระบบเพื่อทำงานเกี่ยวกับไดรเวอร์
+เลือกไฟล์ `TierS-Driver-Manage-Setup-2.9.2.exe` แล้วเปิดไฟล์เพื่อติดตั้ง โปรแกรมอาจขอสิทธิ์ผู้ดูแลระบบเพื่อทำงานเกี่ยวกับไดรเวอร์
 
 ## หมายเหตุ
 
